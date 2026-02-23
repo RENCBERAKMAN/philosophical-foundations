@@ -933,7 +933,6 @@ Altı ay önce yazdığın ilk kavram analizini şimdi oku. Fark var mı? Nasıl
 
 ---
 
-# ⚡ BONUS: Bunları Bilirsen Gerçekten İleri Seviyeye Geçersin
 
 ## A. Düşünce Deneyleri — Felsefenin Laboratuvarları
 
